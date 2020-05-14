@@ -1,0 +1,5 @@
+id:name:phone:email
+1:ilja_moi:123456789:ilja@gmail.com
+2:john_wash:123456789:john@gmail.com
+3:dan_duma:123456789:dan@gmail.com
+4:ilja_duma:123456789:iljad@gmail.com
